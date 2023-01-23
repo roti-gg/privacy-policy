@@ -36,13 +36,8 @@ Any user, server owner can request us to delete their data by joining the [suppo
 
 Any future changes or updates to this policy, will be made aware of to our users. Keep an eye on this space to check for our policy and give us feedback to what we could do better. Feel free to contact us in our support server if you have any questions regarding our privacy policy.
 
-## Developers
+## Team R.O.T.I
 
-- Imran Barbhuiya (Parbez)
-- GitHub: https://github.com/imranbarbhuiya
+- Nitin Sheokand [PsyChotic](https://github.com/officialxnitin): Founder & Development manager
 
-## Owner
-
-- Nitin Sheokand (PsyChotic)
-
-- GitHub: https://github.com/officialxnitin
+- Imran Barbhuiya [Parbez](https://github.com/imranbarbhuiya): Founder & Senior developer
