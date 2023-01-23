@@ -40,6 +40,6 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 - Nitin Sheokand [[PsyChotic](https://github.com/officialxnitin)]: Founder & Development manager
 
-- [Parbez](https://github.com/imranbarbhuiya) [ Imran Barbhuiya ]: Founder & Senior developer
+- Imran Barbhuiya [[Parbez](https://github.com/imranbarbhuiya)]: Founder & Senior developer
 
-- [Ping](https://github.com/imranbarbhuiya) [ Pratham Dubey ]: Front-End developer
+- Pratham Dubey [[Ping](https://github.com/prathamdubey)]: Front-End developer
