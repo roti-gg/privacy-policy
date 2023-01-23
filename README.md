@@ -38,7 +38,7 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 ## Team R.O.T.I
 
-- [PsyChotic](https://github.com/officialxnitin) [ Nitin Sheokand ]: Founder & Development manager
+- Nitin Sheokand [[PsyChotic](https://github.com/officialxnitin)]: Founder & Development manager
 
 - [Parbez](https://github.com/imranbarbhuiya) [ Imran Barbhuiya ]: Founder & Senior developer
 
